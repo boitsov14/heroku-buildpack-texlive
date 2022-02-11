@@ -10,8 +10,8 @@ selected_scheme scheme-small
 # You can list them, one per line, as follows:
 #   collection-<COLLECTION_NAME> 1
 #collection-basic 1
-#collection-mathscience 1
 collection-latexextra 1
+collection-mathscience 1
 
 #=[ Paths ]=====================================================================
 # These paths are the defaults in portable mode, which the action enforces.
