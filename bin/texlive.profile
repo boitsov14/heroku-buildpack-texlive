@@ -12,7 +12,7 @@ selected_scheme scheme-small
 
 collection-latexextra 1
 collection-mathscience 1
-#collection-binextra 1
+collection-binextra 1
 
 #=[ Paths ]=====================================================================
 # These paths are the defaults in portable mode, which the action enforces.
